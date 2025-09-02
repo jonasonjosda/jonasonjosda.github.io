@@ -1,0 +1,120 @@
+- group: 0
+  info: 副教授
+  name: 张学良
+  photo: xueliang_zhang.jpg
+  url: xueliang_zhang
+- group: 0
+  info: 教授
+  name: 肖鹏峰
+  photo: pengfeng_xiao.jpg
+  url: pengfeng_xiao
+- group: 1
+  info: Since 2022
+  name: 李振世
+  photo: zhenshi_li.jpg
+  url: zhenshi_li
+- group: 1
+  info: Since 2023
+  name: 刘岩涛
+  photo: yantao_liu.jpg
+  url: yantao_liu
+- group: 1
+  info: Since 2024
+  name: 李凯源
+  photo: kaiyuan_li.jpg
+  url: kaiyuan_li
+- group: 1
+  info: Since 2025
+  name: 郭芮
+  photo: rui_guo.jpg
+  url: rui_guo
+#- group: 2
+#  info: Since 2024
+#  name: Kim Tran Hoang
+#  photo: kim_tran.jpg
+#  url: kim_tran
+- group: 2
+  info: Since 2023
+  name: 赵思杰
+  photo: sijie_zhao.jpg
+  url: sijie_zhao
+- group: 2
+  info: Since 2023
+  name: 贾语萌
+  photo: yumeng_jia.jpg
+  url: yumeng_jia
+- group: 2
+  info: Since 2023
+  name: 汤博
+  photo: bo_tang.jpg
+  url: bo_tang
+- group: 2
+  info: Since 2023
+  name: 吴锦航
+  photo: jinghang_wu.jpg
+  url: jinghang_wu
+- group: 2
+  info: Since 2024
+  name: 张恩卓
+  photo: enzhuo_zhang.jpg
+  url: enzhuo_zhang
+- group: 2
+  info: Since 2024
+  name: 郭依青
+  photo: yiqing_guo.jpg
+  url: yiqing_guo
+- group: 2
+  info: Since 2024
+  name: 汶靖宇
+  photo: jingyu_wen.jpg
+  url: jingyu_wen
+- group: 2
+  info: Since 2024
+  name: 刘涵
+  photo: han_liu.jpg
+  url: han_liu
+- group: 2
+  info: Since 2025
+  name: 杜东阳
+  photo: dongyang_du.jpg
+  url: dongyang_du
+- group: 2
+  info: Since 2025
+  name: 徐静娴
+  photo: jingxian_xu.jpg
+  url: jingxian_xu
+- group: 8
+  info: PhD (2023毕业)
+  name: 马威
+  photo: wei_ma.jpg
+  url: wei_ma
+- group: 8
+  info: PhD (2024毕业)
+  name: 刘豪
+  photo: hao_liu.jpg
+  url: hao_liu
+- group: 8
+  info: PhD (2025毕业)
+  name: 陈思勇
+  photo: siyong_chen.jpg
+  url: siyong_chen
+- group: 8
+  info: MSc (2025毕业)
+  name: 地力夏提
+  photo: xiati_dili.jpg
+  url: xiati_dili
+- group: 8
+  info: MSc (2025毕业)
+  name: 谷丰
+  photo: feng_gu.jpg
+  url: feng_gu
+- group: 8
+  info: MSc (2025毕业)
+  name: 王蕴涵
+  photo: yunhan_wang.jpg
+  url: yunhan_wang
+- group: 8
+  info: MSc (2025毕业)
+  name: 孙立扬
+  photo: liyang_sun.jpg
+  url: liyang_sun
