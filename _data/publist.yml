@@ -1,6 +1,6 @@
 # 2025
 - title: "Robotic-CLIP: Fine-tuning CLIP on Action Data for Robotic Applications"
-  image: nguyen_icra2025.png
+  # image: nguyen_icra2025.png
   description: 
   authors: N. Nguyen, M. N. Vu, T. D Ta, B. Huang, T. Vo, N. Le, A. Nguyen
   link:
@@ -11,7 +11,7 @@
   year: 2025
 
 - title: "A2VIS: Amodal-Aware Approach to Video Instance Segmentation"
-  image: tran_image_vision2025.png
+  # image: tran_image_vision2025.png
   description: 
   authors: M. Tran, T. Pham, W. Bounsavy, T. Nguyen, N. Le
   link:
