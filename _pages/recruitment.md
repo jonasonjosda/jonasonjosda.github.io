@@ -8,42 +8,32 @@ permalink: /recruitment/
 
 <!-- We are excited to announce open positions **(fully funded MSc and PhD students)** for passionate students in the following cutting-edge areas: -->
 
-## 1. 遥感与计算机视觉
-**Focus**: Multi-camera, multi-object tracking with an emphasis on dense and similar object tracking.
+## 1. 遥感图像智能解译
+**方向**: 自监督学习、视觉大模型、多模态大模型、智能体
 
-**Responsibilities**:
-- Develop state-of-the-art multi-camera systems accurate and efficient tracking of dense objects with similar appearances.
-- Collaborate with interdisciplinary teams in agriculture and poultry science to deploy solutions in real-world applications.
+**内容**:
+- 开发面向特定遥感应用的深度学习模型，解决特定应用中存在的问题，在特定领域中实现模型的落地价值
+- 开发面向通用遥感应用的基础模型，包括视觉大模型、多模态大模型和智能体，实现遥感图像的信息智能化提取
 
 ## 2. 积雪遥感
-**Focus**: Drone and satellite image analysis for agricultural applications.
+**方向**: 积雪动态监测
 
-**Responsibilities**:
-- Collect, analyze, and interpret drone and satellite imagery to improve agricultural practices.
-- Develop models and tools for precision agriculture, including crop health monitoring and yield prediction.
-- Work with data scientists and agricultural experts to refine solutions for practical implementation.
+**内容**:
+- 集成遥感观测数据、气象数据等多源数据，进行积雪动态监测及其气候生态效应研究
 
 ---
 
-## Qualifications
-- A strong background in computer vision, remote sensing, or robotics, with demonstrated experience in relevant projects or research. Having publications in related and relevant venues is a significant advantage.
-- Proficiency in programming languages such as Python, C++, etc.
-- Experience with deep learning frameworks (e.g., PyTorch, TensorFlow, etc.) and analysis/visualization tools (e.g., Pandas, OpenCV, Open3D, etc.).
-- A bachelor’s degree in Computer Science, Robotics, or a related field.
-- For prospective PhD students, advanced degrees (MSc) are preferred but not required.
-- Strong problem-solving skills, self-motivation, a collaborative mindset, and a passion for research and innovation.
+## 要求
+- 具有遥感、地理、GIS等专业的学科背景，具有扎实的知识储备和专业技能
+- 进行过与方向相关的项目或研究，有论文发表的优先考虑
+- 掌握python编程语言，熟练使用深度学习框架（pytorch）和数据分析工具（例如Pandas，OpenCV等）
+- 对科研具有高度的兴趣，积极主动进行研究，善于发现问题和解决问题
 
 ---
 
-## How to Apply
-Please submit the following documents to **thile@uark.edu**:
-1. A detailed resume/CV.
-2. Transcript(s) for your bachelor’s degree (and master’s, if applicable).
-3. A cover letter specifying the position(s) of interest.
-4. English proficiency certificates (e.g., IELTS, TOEFL, GRE, if applicable).
+## 申请方式
+请将以下材料发送给 **zxl@nju.edu.cn**:
+1. 简历
+2. 本科/硕士成绩单
 
-Applications will be reviewed on a rolling basis. Early submissions are encouraged.
 
----
-
-We look forward to your application and the opportunity to work with talented individuals eager to contribute to cutting-edge research in Computer Vision, Remote Sensing, and Robotics.

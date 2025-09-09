@@ -6,13 +6,13 @@ sitemap: false
 permalink: /research/
 ---
 
-{% assign categories = "Robotics,Computer Vision,Medical Analysis" |split: ','  %}
+{% assign categories = "遥感图像智能解译,积雪遥感" |split: ','  %}
 {% assign data = site.data.research %}
 
 
 {% for category in categories  %}
 {% if category == categories[0]%}
-{% assign subCategories = "Perception,Locomotion" | split: ',' %}
+{% assign subCategories = "多模态大模型,自监督模型,密集预测模型,时空预测模型" | split: ',' %}
 
 
 <div>
@@ -22,25 +22,21 @@ permalink: /research/
 {% endif %}
 
 {% if category == categories[1]%}
-{% assign subCategories = "Image Understanding,Video Understanding,Biometrics,Review,Applications" | split: ',' %}
-{% assign appSubCategories = "Remote Sensing,3D Reconstruction,Poultry Science" | split: ',' %}
+{% assign subCategories = "积雪遥感" | split: ',' %}
+<!-- {% assign appSubCategories = "Remote Sensing,3D Reconstruction,Poultry Science" | split: ',' %} -->
 
-<div>
+<!-- <div>
 {% include collapsible_panel.html subCat=subCategories categories=category resData=data appSubCat=appSubCategories%}
-</div>
-
-{% endif %}
-
-{% if category == categories[2]%}
-{% assign subCategories = "Trustworthiness,Robustness,Scalability" | split: ',' %}
-
+</div> -->
 
 
 <div>
-{% include collapsible_panel.html subCat=subCategories categories=category resData=data  %}
+{% include collapsible_panel.html subCat=subCategories categories=category resData=data%}
 </div>
 
 {% endif %}
+
+
 
 {% endfor %}
 

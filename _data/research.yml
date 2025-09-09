@@ -23,6 +23,11 @@
   category: 积雪遥感
   subCategory: 积雪遥感
 
-
+- title: "Lhrs-bot: Empowering remote sensing with vgi-enhanced large multimodal language model"
+  image: lhrs-bot-nova.png
+  url: https://arxiv.org/pdf/2402.02544
+  description: D Muhtar, Z Li, F Gu, X Zhang, P Xiao, Accepted to European Conference on Computer Vision, 2024
+  category: 遥感图像智能解译
+  subCategory: 多模态大模型
 
   
