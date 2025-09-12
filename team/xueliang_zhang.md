@@ -1,7 +1,7 @@
 ---
 layout: member
-title: 副教授
-position: 
+title: 张学良
+position: 副教授
 handle: xueliang_zhang
 email: zxl@nju.edu.cn
 twitter:
