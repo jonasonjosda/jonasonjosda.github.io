@@ -6,6 +6,14 @@ sitemap: false
 permalink: /contact/
 ---
 
+# 联系方式
+
+如果你想和我们进行交流与合作，欢迎通过以下邮箱发送邮件：
+
+张学良：zxl@nju.edu.cn
+
+肖鹏峰：xiaopf@nju.edu.cn
+
 # 招聘
 如果你想要加入我们的实验室，请查看[招聘](../recruitment)页面
 
@@ -13,6 +21,10 @@ permalink: /contact/
 
 ## LHRS实验室
 LHRS 实验室位于南京大学地理与海洋科学学院5楼513
+
+![]({{ site.url }}{{ site.baseurl }}/images/contactpic/location.png){: style="width: 100%; border: 10px"}
+
+
 
 
 <!-- <div style="position:relative;text-align:right;height:500px;width:100%;">

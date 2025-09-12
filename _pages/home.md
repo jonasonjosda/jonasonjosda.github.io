@@ -11,7 +11,6 @@ permalink: /
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/lab_pic.jpg){: style="width: 100%; border: 10px"}
 
 
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/AICV_black.png){: style="width: 150px; float: left;margin-right: 20px; border: 10px"} -->
 
 LHRS 实验室致力于推进遥感、计算机视觉和积雪领域的研究。在过去的几年里，通过我们前沿的研究以及与该领域领先专家的合作，我们在这些领域取得了显著的进展。我们的工作已经在顶级会议和期刊上发表了大量文章，并且我们继续推进先进深度学习技术在遥感领域所能实现的边界。
 <br>
