@@ -90,7 +90,7 @@ permalink: /publications/
 {% endfor %}
 
 
-## Patents
+<!-- ## Patents
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -112,7 +112,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-<div>
+<div> -->
 ## Full List
 
 For a full list, please go to <a class="regtext" href="https://scholar.google.co.jp/citations?user=0klWOSEAAAAJ&hl=zh-CN&oi=ao">Google Scholar</a>.
