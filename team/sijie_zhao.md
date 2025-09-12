@@ -1,7 +1,7 @@
 ---
 layout: member
-title: 硕士生
-position: 
+title: 赵思杰
+position: 硕士生
 handle: sijie_zhao
 email: zsj2233@smail.nju.edu.cn
 twitter:

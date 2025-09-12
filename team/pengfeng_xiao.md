@@ -1,7 +1,7 @@
 ---
 layout: member
-title: 教授
-position: 
+title: 肖鹏峰
+position: 教授
 handle: pengfeng_xiao
 email: xiaopf@nju.edu.cn
 twitter:

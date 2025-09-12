@@ -20,7 +20,7 @@
   year: 2025
 
 - title: "Lhrs-bot: Empowering remote sensing with vgi-enhanced large multimodal language model"
-  image: lhrs-bot-nova.png
+  image: lhrs_bot.png
   authors: D Muhtar, Z Li, F Gu, X Zhang, P Xiao
   link:
     url: https://arxiv.org/pdf/2402.02544
@@ -30,7 +30,7 @@
   year: 2024
 
 - title: "Winter snowpack loss increases warm-season compound hot-dry extremes"
-  image: snowpack.png
+  image: snowpack_loss.png
   authors: H Liu, P Xiao, X Zhang, Y Liang, B Tang, S Chen, Y Liu
   link:
     url: https://www.nature.com/articles/s43247-024-01734-8
