@@ -1,5 +1,5 @@
 ---
-title: "LHRS Lab - Contact"
+title: "LHRS - 联系"
 layout: textlay
 excerpt: "Contact."
 sitemap: false
@@ -15,12 +15,11 @@ permalink: /contact/
 肖鹏峰：xiaopf@nju.edu.cn
 
 # 招聘
-如果你想要加入我们的实验室，请查看[招聘](../recruitment)页面
+如果你想要加入我们LHRS，请查看[招聘](../recruitment)页面
 
 # 实验室位置
 
-## LHRS实验室
-LHRS 实验室位于南京大学地理与海洋科学学院5楼513
+LHRS 位于南京大学地理与海洋科学学院5楼513
 
 ![]({{ site.url }}{{ site.baseurl }}/images/contactpic/location.png){: style="width: 100%; border: 10px"}
 

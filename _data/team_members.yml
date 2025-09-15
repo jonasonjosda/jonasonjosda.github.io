@@ -1,13 +1,13 @@
 - group: 0
-  info: 副教授
-  name: 张学良
-  photo: xueliang_zhang.jpg
-  url: xueliang_zhang
-- group: 0
   info: 教授
   name: 肖鹏峰
   photo: pengfeng_xiao.jpg
   url: pengfeng_xiao
+- group: 0
+  info: 副教授
+  name: 张学良
+  photo: xueliang_zhang.jpg
+  url: xueliang_zhang
 - group: 1
   info: Since 2022
   name: 李振世

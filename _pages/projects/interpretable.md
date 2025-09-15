@@ -1,7 +1,7 @@
 ---
-title: "LHRS Lab - Research"
+title: "LHRS - Research"
 layout: gridlay
-excerpt: "LHRS Lab -- Research"
+excerpt: "LHRS -- Research"
 sitemap: false
 permalink: /projects/interpretable/
 ---

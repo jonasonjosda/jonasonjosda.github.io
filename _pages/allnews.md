@@ -1,7 +1,7 @@
 ---
-title: "LHRS Lab - News"
+title: "LHRS - News"
 layout: textlay
-excerpt: "LHRS Lab"
+excerpt: "LHRS"
 sitemap: false
 permalink: /allnews.html
 ---

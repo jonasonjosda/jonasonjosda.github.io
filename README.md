@@ -1,4 +1,4 @@
-# LHRS Lab
+# LHRS
 
 This is a project modified from https://github.com/UARK-AICV/UARK-AICV.github.io
 

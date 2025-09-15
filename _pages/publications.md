@@ -1,7 +1,7 @@
 ---
-title: "LHRS Lab - Publications"
+title: "LHRS - Publications"
 layout: gridlay
-excerpt: "LHRS Lab -- Publications."
+excerpt: "LHRS -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -110,9 +110,9 @@ permalink: /publications/
 {% endif %}
 {% endfor %}
 
-<p> &nbsp; </p>
+<p> &nbsp; </p> -->
 
-<div> -->
+<div>
 ## Full List
 
 For a full list, please go to <a class="regtext" href="https://scholar.google.co.jp/citations?user=0klWOSEAAAAJ&hl=zh-CN&oi=ao">Google Scholar</a>.

@@ -1,5 +1,5 @@
 ---
-title: "LHRS Lab - Recruitment"
+title: "LHRS - Recruitment"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

@@ -1,7 +1,7 @@
 ---
-title: "LHRS Lab - About"
+title: "LHRS - 关于"
 layout: textlay
-excerpt: "LHRS Lab -- About"
+excerpt: "LHRS -- About"
 sitemap: false
 permalink: /about/
 ---
