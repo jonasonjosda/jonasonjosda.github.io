@@ -2,13 +2,13 @@
 layout: member
 title: 李振世
 position: 博士生
-handle: zhengshi_li
+handle: zhenshi_li
 email: Lzhenshi@outlook.com
 twitter:
 github:
 scholar: QJ15IKwAAAAJ&hl=zh-CN&oi=ao
 linkedin: 
-photo: zhengshi_li.jpg
+photo: zhenshi_li.jpg
 # web: https://www.nganle.net/
 # resume: ../cv/NganLe-CV.pdf
 ---
