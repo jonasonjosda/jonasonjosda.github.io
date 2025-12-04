@@ -1,5 +1,5 @@
 ---
-title: "LHRS - 主页"
+title: "LHRS - Home"
 layout: homelay
 excerpt: "LHRS"
 sitemap: false
@@ -8,11 +8,11 @@ permalink: /
 
 # LHRS
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/lab_pic.jpg){: style="width: 100%; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/lab_pic2.jpg){: style="width: 100%; border: 10px"}
 
 
 
-LHRS(Labortory of High-resolution Remote Sensing)致力于推进遥感智能解译和积雪领域的研究。在过去的几年里，通过我们前沿的研究以及与该领域领先专家的合作，我们在这些领域取得了显著的进展。我们的工作已经在顶级会议和期刊上发表了大量文章，并且我们继续推进遥感智能解译和积雪遥感的研究边界。
+高分辨率遥感实验室（LHRS, Laboratory of High-resolution Remote Sensing）属于南京大学地理与海洋科学学院，负责人为肖鹏峰教授和张学良副教授。实验室聚焦遥感技术与地球观测研究，主要从遥感图像智能解译和积雪遥感两个方向开展工作，研究方向包含遥感图像智能解译、多时相变化检测、遥感多模态大模型、深度学习遥感建模与应用、积雪遥感建模与参数反演、积雪变化及其生态与气候效应，在RSE、ISPRS P&RS、IEEE TGRS、WRR、JOH、TC等遥感地学领域权威刊物及NeurIPS、ECCV等人工智能领域顶级会议发表学术论文100余篇。研究团队成员参与多个国家及省部级科研项目，在遥感数据处理、地表智能分析与应用转化等方面具有丰富经验与显著成果。
 <br>
 
 ## 新闻

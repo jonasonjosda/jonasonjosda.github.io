@@ -12,7 +12,7 @@ permalink: /research/
 
 {% for category in categories  %}
 {% if category == categories[0]%}
-{% assign subCategories = "多模态大模型,自监督模型,密集预测模型,时空预测模型" | split: ',' %}
+{% assign subCategories = "多模态大模型,自监督学习,密集预测,时空预测" | split: ',' %}
 
 
 <div>
@@ -23,7 +23,7 @@ permalink: /research/
 
 {% if category == categories[1]%}
 {% assign subCategories = "积雪遥感" | split: ',' %}
-<!-- {% assign appSubCategories = "Remote Sensing,3D Reconstruction,Poultry Science" | split: ',' %} -->
+{% assign appSubCategories = "积雪遥感建模与参数反演,积雪变化及其生态与气候效应" | split: ',' %}
 
 <!-- <div>
 {% include collapsible_panel.html subCat=subCategories categories=category resData=data appSubCat=appSubCategories%}

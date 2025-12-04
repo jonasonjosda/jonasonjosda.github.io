@@ -1,5 +1,5 @@
 ---
-title: "LHRS - 关于"
+title: "LHRS - About"
 layout: textlay
 excerpt: "LHRS -- About"
 sitemap: false

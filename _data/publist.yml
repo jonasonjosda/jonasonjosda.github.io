@@ -5,7 +5,7 @@
   link:
     url: https://arxiv.org/pdf/2411.09301?
     display: Z Li, D Muhtar, F Gu, Y He, X Zhang, P Xiao, G He, X Zhu, ISPRS Journal of Photogrammetry and Remote Sensing, 2025
-  type: 1
+  type: 2
   news2:
   year: 2025
 
@@ -15,19 +15,21 @@
   link:
     url: https://arxiv.org/pdf/2407.12592
     display: S Zhao, H Chen, X Zhang, P Xiao, L Bai, IEEE Transactions on Geoscience and Remote Sensing, 2025
-  type: 1
+  type: 2
   news2:
   year: 2025
 
-- title: "Lhrs-bot: Empowering remote sensing with vgi-enhanced large multimodal language model"
-  image: lhrs_bot.png
-  authors: D Muhtar, Z Li, F Gu, X Zhang, P Xiao
+- title: "Accelerated decline in vegetation resilience on the Tibetan Plateau"
+  image: acce.png
+  authors: Y Liu, P Xiao, X Zhang, H Liu, S Chen, Y Jia
   link:
-    url: https://arxiv.org/pdf/2402.02544
-    display: D Muhtar, Z Li, F Gu, X Zhang, P Xiao, European Conference on Computer Vision, 2024
+    url: https://sgos.nju.edu.cn/_upload/article/files/95/a5/21bb720d49be9d2509183d9ec29d/6678aeb9-87e6-4f34-8c82-976d263208d5.pdf
+    display: Y Liu, P Xiao, X Zhang, H Liu, S Chen, Y Jia, Land Degradation & Development, 2025
   type: 2
   news2:
-  year: 2024
+  year: 2025
+
+# 2024
 
 - title: "Winter snowpack loss increases warm-season compound hot-dry extremes"
   image: snowpack_loss.png
@@ -35,6 +37,37 @@
   link:
     url: https://www.nature.com/articles/s43247-024-01734-8
     display: H Liu, P Xiao, X Zhang, Y Liang, B Tang, S Chen, Y Liu, Communications Earth & Environment, 2024
+  type: 2
+  news2:
+  year: 2024
+
+- title: "Lhrs-bot: Empowering remote sensing with vgi-enhanced large multimodal language model"
+  image: lhrs_bot.png
+  authors: D Muhtar, Z Li, F Gu, X Zhang, P Xiao
+  link:
+    url: https://arxiv.org/pdf/2402.02544
+    display: D Muhtar, Z Li, F Gu, X Zhang, P Xiao, European Conference on Computer Vision, 2024
   type: 1
+  news2:
+  year: 2024
+
+- title: "Improved snow-covered forest bidirectional reflectance model incorporating canopy-intercepted snow and atmospheric effects"
+  image: imp.png
+  authors: S Chen, P Xiao, X Zhang, H Liu, Y Wang, L Sun, G Yin
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10598192
+    display: S Chen, P Xiao, X Zhang, H Liu, Y Wang, L Sun, G Yin, IEEE Transactions on Geoscience and Remote Sensing, 2024
+  type: 2
+  news2:
+  year: 2024
+
+
+- title: "Rs-mamba for large remote sensing image dense prediction"
+  image: rs_mamba.png
+  authors: S Zhao, H Chen, X Zhang, P Xiao, L Bai, W Ouyang
+  link:
+    url: https://arxiv.org/pdf/2404.02668?
+    display: S Zhao, H Chen, X Zhang, P Xiao, L Bai, W Ouyang, IEEE Transactions on Geoscience and Remote Sensing, 2024
+  type: 2
   news2:
   year: 2024

@@ -12,7 +12,7 @@
   url: https://arxiv.org/pdf/2407.12592
   description: S Zhao, H Chen, X Zhang, P Xiao, L Bai, Accepted to IEEE Transactions on Geoscience and Remote Sensing, 2025
   category: 遥感图像智能解译
-  subCategory: 时空预测模型
+  subCategory: 时空预测
 
 # 2024
 
@@ -21,7 +21,22 @@
   url: https://www.nature.com/articles/s43247-024-01734-8
   description: H Liu, P Xiao, X Zhang, Y Liang, B Tang, S Chen, Y Liu, Accepted to Communications Earth & Environment, 2024
   category: 积雪遥感
-  subCategory: 积雪遥感
+  subCategory: 积雪变化及其生态与气候效应
+
+- title: "Rs-mamba for large remote sensing image dense prediction"
+  image: rs_mamba.png
+  url: https://arxiv.org/pdf/2404.02668?
+  description: S Zhao, H Chen, X Zhang, P Xiao, L Bai, W Ouyang, Accepted to IEEE Transactions on Geoscience and Remote Sensing, 2024
+  category: 遥感图像智能解译
+  subCategory: 密集预测
+
+- title: "Improved snow-covered forest bidirectional reflectance model incorporating canopy-intercepted snow and atmospheric effects"
+  image: imp.png
+  url: https://ieeexplore.ieee.org/abstract/document/10598192/
+  description: S Chen, P Xiao, X Zhang, H Liu, Y Wang, L Sun, G Yin, Accepted to IEEE Transactions on Geoscience and Remote Sensing, 2024
+  category: 积雪遥感
+  subCategory: 积雪遥感建模与参数反演
+
 
 - title: "Lhrs-bot: Empowering remote sensing with vgi-enhanced large multimodal language model"
   image: lhrs_bot.png
@@ -30,4 +45,20 @@
   category: 遥感图像智能解译
   subCategory: 多模态大模型
 
-  
+
+# 2023
+
+- title: "Exchanging dual-encoder–decoder: A new strategy for change detection with semantic guidance and spatial localization"
+  image: sgsln.png
+  url: https://arxiv.org/pdf/2311.11302
+  description: S Zhao, X Zhang, P Xiao, G He, Accepted to IEEE Transactions on Geoscience and Remote Sensing, 2023
+  category: 遥感图像智能解译
+  subCategory: 密集预测
+
+
+- title: "Cmid: A unified self-supervised learning framework for remote sensing image understanding"
+  image: cmid.png
+  url: https://sgos.nju.edu.cn/_upload/article/files/95/a5/21bb720d49be9d2509183d9ec29d/502b667e-6f5d-419d-b20e-43b81eddde40.pdf
+  description: D Muhtar, X Zhang, P Xiao, Z Li, F Gu, Accepted to IEEE Transactions on Geoscience and Remote Sensing, 2023
+  category: 遥感图像智能解译
+  subCategory: 自监督学习

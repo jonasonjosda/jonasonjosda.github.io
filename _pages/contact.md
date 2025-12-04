@@ -1,5 +1,5 @@
 ---
-title: "LHRS - 联系"
+title: "LHRS - Contact"
 layout: textlay
 excerpt: "Contact."
 sitemap: false
