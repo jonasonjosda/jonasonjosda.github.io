@@ -59,7 +59,7 @@ permalink: /recruitment/
 
 ---
 
-## 申请方式
+## 4. 申请方式
 请将以下材料发送给 **zxl@nju.edu.cn**:
 1. 简历
 2. 本科/硕士成绩单（可选）

@@ -74,6 +74,11 @@
   photo: han_liu.jpg
   url: han_liu
 - group: 2
+  info: Since 2024
+  name: 毕怡翕
+  photo: yixi_bi.jpg
+  url: yixi_bi
+- group: 2
   info: Since 2025
   name: 杜东阳
   photo: dongyang_du.jpg
@@ -83,6 +88,21 @@
   name: 徐静娴
   photo: jingxian_xu.jpg
   url: jingxian_xu
+- group: 2
+  info: Since 2025
+  name: 钟立
+  photo: li_zhong.jpg
+  url: li_zhong
+- group: 2
+  info: Since 2025
+  name: 周梦倾
+  photo: mengqing_zhou.jpg
+  url: mengqing_zhou
+- group: 2
+  info: Since 2025
+  name: 林玉雯
+  photo: yuwen_lin.jpg
+  url: yuwen_lin
 - group: 8
   info: PhD (2023毕业)
   name: 马威
@@ -118,3 +138,23 @@
   name: 孙立扬
   photo: liyang_sun.jpg
   url: liyang_sun
+- group: 8
+  info: MSc (2024毕业)
+  name: 王文野
+  photo: wenye_wang.jpg
+  url: wenye_wang
+- group: 8
+  info: MSc (2024毕业)
+  name: 王璐涵
+  photo: luhan_wang.jpg
+  url: luhan_wang
+- group: 8
+  info: MSc (2024毕业)
+  name: 苏琪
+  photo: qi_su.jpg
+  url: qi_su
+- group: 8
+  info: MSc (2024毕业)
+  name: 陈欣杨
+  photo: xinyang_chen.jpg
+  url: xinyang_chen
