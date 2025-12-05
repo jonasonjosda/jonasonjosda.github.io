@@ -22,8 +22,8 @@ permalink: /research/
 {% endif %}
 
 {% if category == categories[1]%}
-{% assign subCategories = "积雪遥感" | split: ',' %}
-{% assign appSubCategories = "积雪遥感建模与参数反演,积雪变化及其生态与气候效应" | split: ',' %}
+{% assign subCategories = "积雪遥感建模与参数反演,积雪变化及其生态与气候效应" | split: ',' %}
+<!-- {% assign appSubCategories = "积雪遥感建模与参数反演,积雪变化及其生态与气候效应" | split: ',' %} -->
 
 <!-- <div>
 {% include collapsible_panel.html subCat=subCategories categories=category resData=data appSubCat=appSubCategories%}

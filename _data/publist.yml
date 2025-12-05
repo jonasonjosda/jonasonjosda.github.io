@@ -29,6 +29,16 @@
   news2:
   year: 2025
 
+- title: "Mapping snow-covered forest albedo via hybrid radiative transfer and machine learning across Northern Hemisphere"
+  image: map_snow.png
+  authors: S Chen, P Xiao, X Zhang, P Pellikka, H Liu, Y Liu
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S092427162500303X
+    display: S Chen, P Xiao, X Zhang, P Pellikka, H Liu, Y Liu, ISPRS Journal of Photogrammetry and Remote Sensing, 2025
+  type: 2
+  news2:
+  year: 2025
+
 # 2024
 
 - title: "Winter snowpack loss increases warm-season compound hot-dry extremes"
@@ -71,3 +81,36 @@
   type: 2
   news2:
   year: 2024
+
+- title: "Winter snow cover influences growing-season vegetation productivity non-uniformly in the Northern Hemisphere"
+  image: snow_cover.png
+  authors: H Liu, P Xiao, X Zhang, S Chen, Y Wang, W Wang
+  link:
+    url: https://www.nature.com/articles/s43247-023-01167-9
+    display: H Liu, P Xiao, X Zhang, S Chen, Y Wang, W Wang, Communications Earth & Environment, 2024
+  type: 2
+  news2:
+  year: 2024
+
+
+# 2023
+
+- title: "Exchanging dual-encoder–decoder: A new strategy for change detection with semantic guidance and spatial localization"
+  image: sgsln.png
+  authors: S Zhao, X Zhang, P Xiao, G He
+  link:
+    url: https://arxiv.org/pdf/2311.11302
+    display: S Zhao, X Zhang, P Xiao, G He, IEEE Transactions on Geoscience and Remote Sensing, 2023
+  type: 2
+  news2:
+  year: 2023
+
+- title: "Cmid: A unified self-supervised learning framework for remote sensing image understanding"
+  image: cmid.png
+  authors: D Muhtar, X Zhang, P Xiao, Z Li, F Gu
+  link:
+    url: https://sgos.nju.edu.cn/_upload/article/files/95/a5/21bb720d49be9d2509183d9ec29d/502b667e-6f5d-419d-b20e-43b81eddde40.pdf
+    display: D Muhtar, X Zhang, P Xiao, Z Li, F Gu, IEEE Transactions on Geoscience and Remote Sensing, 2023
+  type: 2
+  news2:
+  year: 2023

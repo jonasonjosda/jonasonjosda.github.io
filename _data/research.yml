@@ -14,6 +14,14 @@
   category: 遥感图像智能解译
   subCategory: 时空预测
 
+- title: "Mapping snow-covered forest albedo via hybrid radiative transfer and machine learning across Northern Hemisphere"
+  image: map_snow.png
+  url: https://www.sciencedirect.com/science/article/abs/pii/S092427162500303X
+  description: S Chen, P Xiao, X Zhang, P Pellikka, H Liu, Y Liu, Accepted to ISPRS Journal of Photogrammetry and Remote Sensing, 2025
+  category: 积雪遥感
+  subCategory: 积雪遥感建模与参数反演
+
+
 # 2024
 
 - title: "Winter snowpack loss increases warm-season compound hot-dry extremes"
@@ -44,6 +52,13 @@
   description: D Muhtar, Z Li, F Gu, X Zhang, P Xiao, Accepted to European Conference on Computer Vision, 2024
   category: 遥感图像智能解译
   subCategory: 多模态大模型
+
+- title: "Winter snow cover influences growing-season vegetation productivity non-uniformly in the Northern Hemisphere"
+  image: snow_cover.png
+  url: https://www.nature.com/articles/s43247-023-01167-9
+  description: H Liu, P Xiao, X Zhang, S Chen, Y Wang, W Wang, Accepted to Communications Earth & Environment, 2024
+  category: 积雪遥感
+  subCategory: 积雪变化及其生态与气候效应
 
 
 # 2023
