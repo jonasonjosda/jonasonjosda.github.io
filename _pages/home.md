@@ -16,10 +16,11 @@ permalink: /
 <br>
 
 ## 新闻
+* 2025.09.18: 硕士生地力夏提·木哈塔尔于人工智能会议The 39th Conference on Neural Information Processing Systems (NeurIPS 2025) 发表一项研究成果，题为“Quality-Driven Curation of Remote Sensing Vision-Language Data via Learned Scoring Models”
 
 * 2025.08.21: 祝贺陈思勇同学顺利通过博士学位论文答辩！
-* 2025.08.08: 博士生陈思勇于ISPRS Journal of Photogrammetry and Remote Sensing期刊发表一项研究成果，题为“Mapping snow-covered forest albedo via hybrid radiative transfer and machine learning across Northern Hemisphere”
 
+* 2025.08.08: 博士生陈思勇于遥感期刊ISPRS Journal of Photogrammetry and Remote Sensing发表一项研究成果，题为“Mapping snow-covered forest albedo via hybrid radiative transfer and machine learning across Northern Hemisphere”
 
 ## 招聘岗位
 

@@ -1,4 +1,14 @@
 # 2025
+- title: "Quality-Driven Curation of Remote Sensing Vision-Language Data via Learned Scoring Models"
+  image: score_rs.png
+  authors: D Muhtar, E Zhang, Z Li, F Gu, Y He, P Xiao, X Zhang
+  link:
+    url: https://arxiv.org/pdf/2503.00743
+    display: D Muhtar, E Zhang, Z Li, F Gu, Y He, P Xiao, X Zhang, ISPRS Journal of Photogrammetry and Remote Sensing, 2025
+  type: 1
+  news2:
+  year: 2025
+
 - title: "Lhrs-bot-nova: Improved multimodal large language model for remote sensing vision-language interpretation"
   image: lhrs-bot-nova.png
   authors: Z Li, D Muhtar, F Gu, Y He, X Zhang, P Xiao, G He, X Zhu
